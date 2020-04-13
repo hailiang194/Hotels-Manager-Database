@@ -12,7 +12,7 @@ CREATE PROC GENERATE_ID
  * @IDNumber: ID number of this ID
  * ID: Output the id with format: ABC-YYYY-MM-XXXXXXXX where
 								ABC: prefix of id
-								YYYY: 2 last digit of the year that ID create
+								YYYY: the year that ID create
 								MM: month that ID create
 								XXXXXXXX: ID number of this id
  */
